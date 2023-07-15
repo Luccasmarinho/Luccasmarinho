@@ -2,7 +2,7 @@
 ## Bem-vindos ao meu GitHub.
 
 - :computer: Programador em formação
-- :man_student: Formando na carreira de programador Front End - DevMedia
+- :man_student: Formando na carreira de Desenvolvedor Front End - DevMedia
 - 💬 Contate-me através do Email: Luccas88oliveira@gmail.com
 - :iphone: Redes sociais: https://luccasmarinho.github.io/Card-Links/
 
