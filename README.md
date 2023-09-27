@@ -18,7 +18,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-      <img src="https://www.google.com/search?sca_esv=568775834&sxsrf=AM9HkKnoxYTs08xxpdBuwFKFQJRjcbxZAQ:1695827921347&q=logo+insomnia&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj-ieimi8uBAxVvvJUCHY5OBu4Q0pQJegQICxAB&biw=1366&bih=619&dpr=1#imgrc=-c2RGUiGM2sSOM" height="30" width="42" alt="nodejs logo"  />
  </div>
 
 ## Redes Sociais: 
