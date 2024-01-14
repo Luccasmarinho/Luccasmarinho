@@ -1,7 +1,7 @@
 ### Oi👋 Eu sou o Luccas Marinho!
 ## Bem-vindos ao meu GitHub.
 
-- :computer: Programador em formação
+- :computer: Programador em formação 
 - :man_student: Cursando Desenvolvimento de Software Back End - Cubos Academy
 - 💬 Contate-me através do Email: Luccas88oliveira@gmail.com
 - :iphone: Redes sociais: https://luccasmarinho.github.io/Card-Links/
