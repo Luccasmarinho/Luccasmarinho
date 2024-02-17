@@ -2,7 +2,7 @@
 ## Bem-vindos ao meu GitHub.
 
 - :computer: Programador em formação 
-- :man_student: Cursando Desenvolvimento de Software Back End - Cubos Academy 
+- :man_student: Cursando Desenvolvimento de Software Fullstack - Alura 
 - 💬 Contate-me através do Email: Luccas88oliveira@gmail.com 
 - :iphone: Redes sociais: https://luccasmarinho.github.io/Card-Links/ 
 
