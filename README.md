@@ -1,5 +1,5 @@
 ### Oi👋 Eu sou o Luccas Marinho!
-## Bem-vindos ao meu GitHub.
+## Bem-vindos ao meu GitHub. 
 
 - :computer: Programador em formação 
 - :man_student: Cursando Desenvolvimento de Software Fullstack - Alura 
