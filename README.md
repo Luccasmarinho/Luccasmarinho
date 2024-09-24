@@ -18,7 +18,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgres" /> -->
-     <img src="https://skillicons.dev/icons?i=js,html,css,vscode,git,github,nodejs,postgres,postman" />
+     <img src="https://skillicons.dev/icons?i=js,html,css,vscode,git,github,nodejs,postgres,postman,prisma" />
  </div>
 
 ## Redes Sociais: 
